@@ -17,7 +17,6 @@ I work mostly with Rust, TypeScript, Go, and C, and I enjoy projects that sit cl
 - [`cloak`](https://github.com/notzenco/cloak) - A modern steganography toolkit in Rust with mandatory encryption, steganalysis, and a terminal UI.
 - [`static-ip-fix-windows`](https://github.com/notzenco/static-ip-fix-windows) - A Windows CLI tool for static IP configuration and DNS-over-HTTPS setup.
 - [`dsa`](https://github.com/notzenco/dsa) - Data structures and algorithms implemented across C, Go, Java, Python, Rust, and TypeScript.
-- [`snippets`](https://github.com/notzenco/snippets) - A growing collection of code snippets, one-liners, and quick references.
 
 ## Tech stack
 
