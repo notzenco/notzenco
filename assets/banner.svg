@@ -13,7 +13,7 @@
   <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
   <rect width="1280" height="320" rx="16" fill="url(#grid)"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6f6894" opacity="0.8">
-    <text x="860" y="92">$ fathom --target ./elf</text>
+    <text x="860" y="92">$ fathom -i seeds/ -o out/ -- ./target</text>
     <text x="860" y="122" fill="#8b7cf6">  coverage  ▮▮▮▮▮▮▮▯▯  71%</text>
     <text x="860" y="162">$ tripwire scan session.jsonl</text>
     <text x="860" y="192" fill="#e0a3a3">  leak: aws key → Bash</text>
