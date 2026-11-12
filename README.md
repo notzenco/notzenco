@@ -7,14 +7,24 @@ I'm a security engineer studying computer science and data science in Australia.
 <a href="https://github.com/umbra-me/axio"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-axio.svg" alt="axio: a minimal, fast coding agent" width="49%"></a>
 <a href="https://github.com/umbra-me"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-umbra-me.svg" alt="Umbra: privacy-focused software studio" width="49%"></a>
 
+### Agent security
+
+<a href="https://github.com/notzenco/sentinel"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-sentinel.svg" alt="sentinel: security scanner for AI agents" width="49%"></a>
+<a href="https://github.com/notzenco/agent-tripwire"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-tripwire.svg" alt="agent-tripwire: honeytokens for coding agents" width="49%"></a>
+<a href="https://github.com/notzenco/mcp-firewall"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-mcp-firewall.svg" alt="mcp-firewall: policy proxy for MCP traffic" width="49%"></a>
+<a href="https://github.com/notzenco/agent-replay"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-replay.svg" alt="agent-replay: replay and export coding-agent sessions" width="49%"></a>
+
 ### Security & systems
 
 <a href="https://github.com/notzenco/fathom"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-fathom.svg" alt="fathom: coverage-guided ELF fuzzer" width="49%"></a>
 <a href="https://github.com/notzenco/phantom"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-phantom.svg" alt="phantom: code protector" width="49%"></a>
-<a href="https://github.com/notzenco/sentinel"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-sentinel.svg" alt="sentinel: security scanner for AI agents" width="49%"></a>
-<a href="https://github.com/notzenco/agent-tripwire"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-tripwire.svg" alt="agent-tripwire: honeytokens for coding agents" width="49%"></a>
 <a href="https://github.com/notzenco/cloak"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-cloak.svg" alt="cloak: encrypted steganography" width="49%"></a>
 <a href="https://github.com/notzenco/metascrub"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-metascrub.svg" alt="metascrub: strip identifying metadata from files" width="49%"></a>
+
+### Data science
+
+<a href="https://github.com/notzenco/agent-behaviour-study"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-behaviour-study.svg" alt="agent-behaviour-study: how often coding agents read or leak credentials" width="49%"></a>
+<a href="https://github.com/notzenco/log-anomaly"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-log-anomaly.svg" alt="log-anomaly: host log anomaly detection" width="49%"></a>
 
 ### Contributions
 
