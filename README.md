@@ -1,6 +1,6 @@
 <a href="https://zenco.cc"><img src="https://github.com/notzenco/notzenco/raw/main/assets/banner.svg" alt="Zenco: security tooling, coding agents and native apps" width="100%"></a>
 
-I study computer science and data science in Australia, and most recently worked as a cyber security engineer. I build security tools and local-first software in Rust, TypeScript and Swift. I also run [Umbra](https://github.com/umbra-me), a small privacy-focused software studio.
+I'm a security engineer studying computer science and data science in Australia. I build security tools and local-first software in Rust, TypeScript and Swift. I also run [Umbra](https://github.com/umbra-me), a small privacy-focused software studio.
 
 ### Umbra
 
