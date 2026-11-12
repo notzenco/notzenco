@@ -14,7 +14,7 @@ I'm a security engineer studying computer science and data science in Australia.
 <a href="https://github.com/notzenco/sentinel"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-sentinel.svg" alt="sentinel: security scanner for AI agents" width="49%"></a>
 <a href="https://github.com/notzenco/agent-tripwire"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-tripwire.svg" alt="agent-tripwire: honeytokens for coding agents" width="49%"></a>
 <a href="https://github.com/notzenco/cloak"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-cloak.svg" alt="cloak: encrypted steganography" width="49%"></a>
-<a href="https://github.com/notzenco/static-ip-fix-windows"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-static-ip-fix-windows.svg" alt="static-ip-fix-windows: static IP and DoH setup" width="49%"></a>
+<a href="https://github.com/notzenco/metascrub"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-metascrub.svg" alt="metascrub: strip identifying metadata from files" width="49%"></a>
 
 ### Contributions
 
@@ -23,6 +23,7 @@ I'm a security engineer studying computer science and data science in Australia.
 
 ### More
 
+- **Tools:** [`static-ip-fix-windows`](https://github.com/notzenco/static-ip-fix-windows)
 - **Apps:** [`until`](https://github.com/notzenco/until) · [`awaynote`](https://github.com/notzenco/awaynote)
 - **Learning:** [`dsa`](https://github.com/notzenco/dsa) · [`language-benches`](https://github.com/notzenco/language-benches)
 - **Stack:** Rust · TypeScript · Swift · Go · C · Python
