@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180">
+  <rect x="0.5" y="0.5" width="599" height="179" rx="14" fill="#0f0e17" stroke="#2a2640"/>
+  <text x="32" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2" fill="#8b7cf6">SECURITY</text>
+  <text x="32" y="90" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#f4f2ff">static-ip-fix-windows</text>
+  <text x="32" y="126" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#a9a3c9">Static IP and DNS-over-HTTPS from the CLI.</text>
+  <circle cx="38" cy="152" r="6" fill="#8a8a8a"/>
+  <text x="52" y="157" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#6f6894">C</text>
+  <text x="568" y="157" text-anchor="end" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#6f6894">→</text>
+</svg>
