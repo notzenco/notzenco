@@ -1,38 +1,36 @@
-# Hi, I'm Zenco
+<a href="https://zenco.cc"><img src="https://github.com/notzenco/notzenco/raw/main/assets/banner.svg" alt="Zenco: security tooling, coding agents and native apps" width="100%"></a>
 
-I'm a university student in Australia building privacy-focused software, systems tools, and developer utilities.
+I'm a CS student in Australia, building security tools and local-first software in Rust, TypeScript and Swift. I also run [Umbra](https://github.com/umbra-me), a small privacy-focused software studio.
 
-I work mostly with Rust, TypeScript, Go, and C, and I enjoy projects that sit close to the OS, network stack, security layer, or developer workflow.
+### Umbra
 
-## What I'm interested in
+<a href="https://github.com/umbra-me/axio"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-axio.svg" alt="axio: a minimal, fast coding agent" width="49%"></a>
+<a href="https://github.com/umbra-me"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-umbra-me.svg" alt="Umbra: privacy-focused software studio" width="49%"></a>
 
-- privacy-first applications
-- security-minded tooling
-- systems programming and low-level utilities
-- developer experience and automation
-- building practical software with clean interfaces
+### Security & systems
 
-## Selected projects
+<a href="https://github.com/notzenco/fathom"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-fathom.svg" alt="fathom: coverage-guided ELF fuzzer" width="49%"></a>
+<a href="https://github.com/notzenco/phantom"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-phantom.svg" alt="phantom: code protector" width="49%"></a>
+<a href="https://github.com/notzenco/sentinel"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-sentinel.svg" alt="sentinel: security scanner for AI agents" width="49%"></a>
+<a href="https://github.com/notzenco/agent-tripwire"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-tripwire.svg" alt="agent-tripwire: honeytokens for coding agents" width="49%"></a>
 
-- [`cloak`](https://github.com/notzenco/cloak) - A modern steganography toolkit in Rust with mandatory encryption, steganalysis, and a terminal UI.
-- [`static-ip-fix-windows`](https://github.com/notzenco/static-ip-fix-windows) - A Windows CLI tool for static IP configuration and DNS-over-HTTPS setup.
-- [`dsa`](https://github.com/notzenco/dsa) - Data structures and algorithms implemented across C, Go, Java, Python, Rust, and TypeScript.
+Also: [`cloak`](https://github.com/notzenco/cloak) (encrypted steganography) · [`static-ip-fix-windows`](https://github.com/notzenco/static-ip-fix-windows) (static IP and DoH setup)
 
-## Tech stack
+### Apps
 
-- Languages: Rust, TypeScript, Go, C, Python
-- Tools: React, Next.js, Tauri, Docker, Linux
-- Areas: CLI/TUI apps, security, networking, systems tooling, automation
+<a href="https://github.com/notzenco/until"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-until.svg" alt="until: local-first iPhone countdowns" width="49%"></a>
+<a href="https://github.com/notzenco/awaynote"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-awaynote.svg" alt="awaynote: out-of-office replies" width="49%"></a>
 
-## Currently building
+### Contributions
 
-- privacy-focused tools and apps
-- system utilities for Linux and Windows
-- developer tooling around modern AI workflows
-- projects that combine performance, usability, and security
+- [ureq](https://github.com/algesten/ureq): [apply body limits after all decoding](https://github.com/algesten/ureq/pull/1231)
+- [T3 Code](https://github.com/pingdotgg/t3code): [faster Linux startup without `hostnamectl` waits](https://github.com/pingdotgg/t3code/pull/33068)
 
-## Links
+### More
 
-- Website: [zenco.cc](https://zenco.cc/)
-- GitHub: [@notzenco](https://github.com/notzenco)
-- X/Twitter: [@notzenco](https://x.com/notzenco)
+- **Learning:** [`dsa`](https://github.com/notzenco/dsa) · [`language-benches`](https://github.com/notzenco/language-benches)
+- **Stack:** Rust · TypeScript · Swift · Go · C · Python
+
+---
+
+[zenco.cc](https://zenco.cc) · [umbra.me](https://umbra.me) · [X/Twitter](https://x.com/notzenco)
