@@ -25,6 +25,7 @@ I'm a security engineer studying computer science and data science in Australia.
 
 <a href="https://github.com/notzenco/agent-behaviour-study"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-behaviour-study.svg" alt="agent-behaviour-study: how often coding agents read or leak credentials" width="49%"></a>
 <a href="https://github.com/notzenco/log-anomaly"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-log-anomaly.svg" alt="log-anomaly: host log anomaly detection" width="49%"></a>
+<a href="https://github.com/notzenco/wordle-solver"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-wordle-solver.svg" alt="wordle-solver: solver, benchmark and model-eval harness" width="49%"></a>
 
 ### Contributions
 
