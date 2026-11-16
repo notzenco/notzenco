@@ -30,7 +30,7 @@ I'm a security engineer studying computer science and data science in Australia.
 ### Contributions
 
 - [ureq](https://github.com/algesten/ureq): [apply body limits after all decoding](https://github.com/algesten/ureq/pull/1231)
-- [T3 Code](https://github.com/pingdotgg/t3code): [faster Linux startup without `hostnamectl` waits](https://github.com/pingdotgg/t3code/pull/33068)
+- [T3 Code](https://github.com/pingdotgg/t3code): [faster Linux startup without `hostnamectl` waits](https://github.com/pingdotgg/t3code/pull/33068) · [retryable MCP-over-ACP disconnects](https://github.com/pingdotgg/t3code/pull/33069)
 
 ### More
 
