@@ -20,12 +20,19 @@ I'm a security engineer studying computer science and data science in Australia.
 <a href="https://github.com/notzenco/phantom"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-phantom.svg" alt="phantom: code protector" width="49%"></a>
 <a href="https://github.com/notzenco/cloak"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-cloak.svg" alt="cloak: encrypted steganography" width="49%"></a>
 <a href="https://github.com/notzenco/metascrub"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-metascrub.svg" alt="metascrub: strip identifying metadata from files" width="49%"></a>
+<a href="https://github.com/notzenco/labs"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-labs.svg" alt="labs: vulnerable and fixed program pairs with exploit drivers and walkthroughs" width="49%"></a>
+<a href="https://github.com/notzenco/pass-man"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-pass-man.svg" alt="pass-man: early end-to-end encrypted password manager" width="49%"></a>
 
 ### Data science
 
 <a href="https://github.com/notzenco/agent-behaviour-study"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-agent-behaviour-study.svg" alt="agent-behaviour-study: how often coding agents read or leak credentials" width="49%"></a>
 <a href="https://github.com/notzenco/log-anomaly"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-log-anomaly.svg" alt="log-anomaly: host log anomaly detection" width="49%"></a>
 <a href="https://github.com/notzenco/wordle-solver"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-wordle-solver.svg" alt="wordle-solver: solver, benchmark and model-eval harness" width="49%"></a>
+
+### Apps
+
+<a href="https://github.com/notzenco/sotto"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-sotto.svg" alt="sotto: early on-device dictation for the Mac" width="49%"></a>
+<a href="https://github.com/notzenco/lodestar-releases"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-lodestar.svg" alt="lodestar: macOS launcher and utilities, not yet released" width="49%"></a>
 
 ### Contributions
 
