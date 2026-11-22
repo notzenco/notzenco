@@ -31,6 +31,7 @@ I'm a security engineer studying computer science and data science in Australia.
 
 ### Apps
 
+<a href="https://github.com/notzenco/downpour"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-downpour.svg" alt="downpour: multi-connection, resumable download manager" width="49%"></a>
 <a href="https://github.com/notzenco/sotto"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-sotto.svg" alt="sotto: early on-device dictation for the Mac" width="49%"></a>
 <a href="https://github.com/notzenco/lodestar-releases"><img src="https://github.com/notzenco/notzenco/raw/main/assets/card-lodestar.svg" alt="lodestar: macOS launcher and utilities, not yet released" width="49%"></a>
 
